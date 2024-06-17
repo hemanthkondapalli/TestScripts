@@ -39,6 +39,8 @@ public class screenshot {
 		
 //https://github.com/YadaGiriReddy/HYR-Tutorials/tree/master/Selenium%20Java%20in%20Telugu		
 //https://github.com/RoshanGhadge20/Rahul_Shetty_Selenium_Assignments/blob/main/src/test/java/Rahul_Shetty_Code_Practice/Section_15_122.java	
+//https://github.com/SeleniumHQ/seleniumhq.github.io/blob/trunk/examples/java/src/test/java/dev/selenium/hello/HelloSelenium.java
+		//https://github.com/SeleniumHQ/seleniumhq.github.io/blob/trunk/examples/java/src/test/java/dev/selenium/interactions/CookiesTest.java
 		
 	}
 
